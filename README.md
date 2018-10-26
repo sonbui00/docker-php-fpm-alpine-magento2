@@ -3,4 +3,4 @@
 PHP-FPM v7.1 with Xdebug - Alpine OS 3.7 for Magento 2
 
 # In Action
-(https://github.com/sonbui00/docker-m2-example)[Docker for Magento 2 example]
+[Docker for Magento 2 example](https://github.com/sonbui00/docker-m2-example)
